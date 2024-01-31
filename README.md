@@ -9,5 +9,6 @@ A lo largo de nuestra vida, recreamos acciones con una serie de frecuencia y rep
 Metodo elegido de almacenamiento de datos : Array 
 Creación de un armario para el almacenamiento de camisetas.
 Se crearan dos clases. 1) Clase Main, donde crearemos el armario virtual. 2) Clase Prenda, donde se crearan los constructores de las prendas, indicando principalmente el color. 
+He implementado un método QuickSort, dividiendo en partes más pequeñas (subarray), para reordenar recursivamente los subarray.
 
 En la clase main, se implementa un Scanner sc, para que el usuario pueda meter los datos de la prenda por teclado. 
