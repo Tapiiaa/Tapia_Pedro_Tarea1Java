@@ -1,3 +1,4 @@
+Link a mi repositorio: https://github.com/Tapiiaa/Tapia_Pedro_Tarea1Java.git
 # Tapia_Pedro_Tarea1Java
 
 ALGORITMOS DE LA VIDA COTIDIANA-ANÁLISIS PROFUNDO Y APLICACIONES PRÁCTICAS CON THE ALGORITHMS.
@@ -10,4 +11,3 @@ Creación de un armario para el almacenamiento de camisetas.
 Se crearan dos clases. 1) Clase Main, donde crearemos el armario virtual. 2) Clase Prenda, donde se crearan los constructores de las prendas, indicando principalmente el color. 
 
 En la clase main, se implementa un Scanner sc, para que el usuario pueda meter los datos de la prenda por teclado. 
-
