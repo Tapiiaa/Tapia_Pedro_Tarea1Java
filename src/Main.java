@@ -10,12 +10,14 @@ public class Main {
           Prenda camisetauno = new Prenda(color);
           almacen[i] = camisetauno;
 
+
           System.out.println("Almacen:");
           for (i = 0; i < almacen.length; i++){
               System.out.println("Camiseta:"+almacen[i]);
       }
       sc.close();
       }
+
 
 
 
